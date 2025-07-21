@@ -49,6 +49,17 @@ Platform: Windows / Linux (terminal-based)
 Lightweight, fast, and portable
 No third-party dependencies
 Beginner-friendly C++ project
+<br>
+🗃️ Switch to SQLite
+Replace file-based storage with SQLite for better data management.
+
+🖼️ Add GUI
+Build a simple user interface using libraries like Qt or SFML.
+
+🧾 Printable Invoices
+Generate bills as text files or export them in PDF format.
+
+
 
 
 
